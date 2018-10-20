@@ -27,7 +27,7 @@ int a;
 // The TinyGPS++ object
 TinyGPSPlus gps;
 
-// The serial connection to the GPS device
+// The Serial Connection to the GPS Device
 SoftwareSerial ss(RXPin, TXPin);
 
 void setup(){
